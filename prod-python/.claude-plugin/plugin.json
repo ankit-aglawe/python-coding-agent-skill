@@ -1,0 +1,5 @@
+{
+  "name": "prod-python",
+  "description": "Enforces production-grade Python — modern typing, PEP standards, no AI slop patterns",
+  "version": "1.0.0"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "python-coding-agent-skill",
+  "owner": {
+    "name": "Ankit Aglawe",
+    "email": "aglawe.ankit@gmail.com"
+  },
+  "metadata": {
+    "description": "Production Python skill for AI coding agents — enforces clean, PEP-compliant, modern Python 3.13+ code"
+  },
+  "plugins": [
+    {
+      "name": "prod-python",
+      "source": "./prod-python",
+      "description": "Enforces production-grade Python — modern typing, PEP standards, no AI slop patterns",
+      "version": "1.0.0",
+      "author": {
+        "name": "Ankit Aglawe"
+      },
+      "license": "MIT",
+      "keywords": ["python", "production", "coding", "clean-code", "pep8", "typing", "ai-slop"],
+      "category": "code-quality"
+    }
+  ]
+}
