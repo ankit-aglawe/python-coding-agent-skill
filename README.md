@@ -1,4 +1,4 @@
-# Prod Python
+# Production Python Skill
 
 A Claude Code / Codex skill that makes AI coding agents write production-grade Python — no AI slop, no over-engineering, just clean human-readable code.
 
