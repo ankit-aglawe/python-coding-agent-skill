@@ -10,6 +10,8 @@ Add the marketplace and install:
 
 ```bash
 /plugin marketplace add ankit-aglawe/python-coding-agent-skill
+```
+```bash
 /plugin install prod-python@python-coding-agent-skill
 ```
 
