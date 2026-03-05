@@ -1,6 +1,8 @@
 # Production Python Skill
 
-A Claude Code / Codex skill that makes AI coding agents write production-grade Python — no AI slop, no over-engineering, just clean human-readable code.
+A Claude Code / Codex skill that makes AI coding agents write production-grade Python. No AI slop, no over-engineering, just clean human-readable code.
+
+English | [中文](README_zh.md)
 
 ## Installation
 
